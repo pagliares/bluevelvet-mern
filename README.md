@@ -1,1 +1,1 @@
-# bluevelvet-mern
+# BlueVelvet Music Store - MERN edition
